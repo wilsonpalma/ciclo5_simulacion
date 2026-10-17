@@ -7,8 +7,26 @@ teóricas del modelo, las compara con las métricas obtenidas por la simulación
 visualiza el comportamiento de la cola y los tiempos de espera mediante una
 interfaz web local en **Streamlit**.
 
-> Los datos de autoría (nombres de los integrantes, curso, docente y fecha) deben
-> completarlos los estudiantes del grupo antes de entregar el trabajo.
+Aquí tienes una versión redactada en Markdown, lista para incluir en el `README.md` del proyecto:
+
+Escritura
+
+## Detalles de autoría
+- Grupo: Nro. 2
+
+### Integrantes
+
+- KATHERYN MELISSA CONTENTO MALDONADO
+- JUAN ALBERTO CALOPINO MARTINEZ
+- WILSON PATRICIO PALMA SAMANIEGO
+- BRYAN GUSTAVO TROYA VELEZ
+
+### Información académica
+
+- **Curso:** Computación - 5to "A"
+- **Asignatura:** Simulación
+- **Docente:** José O. Guamán Q.
+- **Fecha de entrega:** 2026-10-18
 
 ---
 
@@ -165,10 +183,6 @@ simulacion_mm1/                 <- raíz del repositorio (el nombre local puede 
 ├── .gitignore                  <- excluye entornos virtuales, cachés y temporales
 └── README.md                   <- este documento
 ```
-
-> En la carpeta local también se conserva el archivo `.md` con el prompt maestro.
-> No se incluye en el árbol porque su contenido ya está transcrito en el
-> **Anexo A**; el grupo puede eliminarlo del repositorio si lo prefiere.
 
 ## 9. Requisitos previos
 
@@ -431,6 +445,7 @@ para generar el proyecto (instrucciones del docente y de la práctica incluidas)
 Si durante el desarrollo se realizaron ajustes o aclaraciones, deben registrarse
 aquí para que la declaración siga siendo fiel a lo ocurrido.
 
+```markdown
 <!-- PROMPT_MAESTRO_INICIO -->
 
 ## PROMPT MAESTRO PARA OPENCODE: PRÁCTICA 03 DE SIMULACIÓN M/M/1
@@ -1011,3 +1026,4 @@ Al terminar, presenta un resumen breve con:
 No empieces a elaborar el informe académico final. La entrega de esta fase es el código fuente funcional, sus pruebas y los archivos necesarios para ejecutarlo y mantenerlo.
 
 <!-- PROMPT_MAESTRO_FIN -->
+```
