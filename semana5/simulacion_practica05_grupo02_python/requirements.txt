@@ -1,0 +1,3 @@
+# Dependencias del proyecto LCG Simulation
+# Solo usa librería estándar de Python 3.8+
+# No se requieren paquetes externos
